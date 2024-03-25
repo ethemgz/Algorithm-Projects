@@ -1,0 +1,2 @@
+The aim of this project is to efficiently calculate statistics (mean, standard deviation, and 5-figure summary) of an online data stream representing household electric power consumption, utilizing appropriate data structures such as arrays, binary search trees, and heaps to optimize runtime.
+Additionally, the project requires a report detailing the chosen data structures, their implementation, pseudocode, asymptotic upper bounds, and an evaluation of runtime performance using recorded operation times and method calls for different input scenarios.
